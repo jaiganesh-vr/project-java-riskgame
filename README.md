@@ -1,1 +1,1 @@
-# project-riskgame
+# Risk Game
